@@ -1,0 +1,26 @@
+{
+  "id": "./",
+  "name": "ATHLETE DOES \u2014 Athlete Performance",
+  "short_name": "ATHLETE DOES",
+  "description": "Hammer throw, strength, training, nutrition, recovery and study tracker.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0e0f11",
+  "theme_color": "#101113",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
